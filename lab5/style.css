@@ -1,0 +1,45 @@
+/*Taylor He 
+CS 546 Lab 5
+I pledge my honor that I have abided by the Stevens Honor System.*/
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F5A300;
+}
+.navbar li a {
+    float: right;
+    display: block;
+    color: #333333;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.edu-sub {
+	color: #000000;
+}
+.text {
+	padding: 5px 5px 5px 5px;
+    background-color: lightyellow;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.header {
+	text-align: center;
+}
+.subheader {
+	margin-left: 5%;
+	text-align: left;
+	color: purple;
+}
+.about-quote {
+	font-style: italic;
+	text-align: center;
+}
+.about-quote-person {
+	font-style: italic;
+	margin-right: 40%;
+	text-align: right;
+}
